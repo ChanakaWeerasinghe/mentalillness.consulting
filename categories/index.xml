@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hope| It&#39;s Our blog</title>
+    <link>https://srilankasl.com/categories/</link>
+    <description>Recent content in Categories on Hope| It&#39;s Our blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://srilankasl.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health</title>
+      <link>https://srilankasl.com/categories/health/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://srilankasl.com/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>මිථ්‍යාවන්</title>
+      <link>https://srilankasl.com/categories/%E0%B6%B8%E0%B7%92%E0%B6%AE%E0%B7%8A%E0%B6%BA%E0%B7%8F%E0%B7%80%E0%B6%B1%E0%B7%8A/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://srilankasl.com/categories/%E0%B6%B8%E0%B7%92%E0%B6%AE%E0%B7%8A%E0%B6%BA%E0%B7%8F%E0%B7%80%E0%B6%B1%E0%B7%8A/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
