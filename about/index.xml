@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Hope| It&#39;s Our blog</title>
-    <link>http://mentalillness.consulting/about/</link>
+    <link>https://mentalillness.consulting/about/</link>
     <description>Recent content in Abouts on Hope| It&#39;s Our blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="http://mentalillness.consulting/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mentalillness.consulting/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>http://mentalillness.consulting/about/about/</link>
+      <link>https://mentalillness.consulting/about/about/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://mentalillness.consulting/about/about/</guid>
+      <guid>https://mentalillness.consulting/about/about/</guid>
       <description>Im Chanaka Lakmal Weerasinghe And Currently working On Interblocks</description>
     </item>
     
