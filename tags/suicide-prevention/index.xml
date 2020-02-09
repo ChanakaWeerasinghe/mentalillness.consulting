@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suicide prevention on Menta Illness Consulting</title>
+    <link>https://mentalillness.consulting/tags/suicide-prevention/</link>
+    <description>Recent content in Suicide prevention on Menta Illness Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://mentalillness.consulting/tags/suicide-prevention/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helping young people</title>
+      <link>https://mentalillness.consulting/blog/health/preventing_suicide_young/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mentalillness.consulting/blog/health/preventing_suicide_young/</guid>
+      <description>Suicide Suicide is one of the main sources of death among 15 year-olds.</description>
+    </item>
+    
+  </channel>
+</rss>
