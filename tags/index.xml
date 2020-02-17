@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Menta Illness Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2020 10:09:47 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 10:19:47 +0600</lastBuildDate>
     
 	<atom:link href="https://mentalillness.consulting/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>health</title>
       <link>https://mentalillness.consulting/tags/health/</link>
-      <pubDate>Sun, 02 Feb 2020 10:09:47 +0600</pubDate>
+      <pubDate>Mon, 17 Feb 2020 10:19:47 +0600</pubDate>
       
       <guid>https://mentalillness.consulting/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety reduction</title>
+      <link>https://mentalillness.consulting/tags/anxiety-reduction/</link>
+      <pubDate>Mon, 17 Feb 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://mentalillness.consulting/tags/anxiety-reduction/</guid>
       <description></description>
     </item>
     
